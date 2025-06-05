@@ -1,0 +1,10 @@
+1. Java Class
+  a. modifiers 
+  b. Class name should start with a capital letter
+  c. body of the Class
+2. Object
+   a. State (nature , int str float)
+   b. Behaviour
+   c. Identity
+   d. method
+   
